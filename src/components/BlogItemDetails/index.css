@@ -1,0 +1,31 @@
+.blogContainer {
+  display: flex;
+  flex-direction: column;
+}
+.blogInfo {
+  width: 100%;
+}
+.blogDetailsContainer {
+  text-align: center;
+}
+.authorDetails {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.authorPic {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.blogAuthorName {
+  color: #8e8e8e;
+}
+.blogImage {
+  width: 100%;
+  height: 180px;
+  border-radius: 10px;
+}
+.blogContent {
+  color: #2f4f4f;
+}
